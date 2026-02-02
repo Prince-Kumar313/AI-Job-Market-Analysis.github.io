@@ -55,21 +55,21 @@ AI job postings increased significantly after 2018.
 ### 💰 Salary Comparison (AI vs Non-AI Jobs)
 AI-related jobs offer higher salary premiums.
 
-![Salary Boxplot](salary_boxplot.png)
+![Salary Boxplot](/screenshots/salary_boxplot.png)
 
 ---
 
 ### 🏢 Industry-wise AI Adoption
 Tech and Finance industries lead global AI hiring.
 
-![Industry AI](industry_ai.png)
+![Industry AI](screenshots/industry_ai.png)
 
 ---
 
 ### 🥧 AI Mention Share (Pie Chart)
 AI roles are becoming dominant across industries.
 
-![Pie Chart](pie_ai_share.png)
+![Pie Chart](screenshots/pie_ai_share.png)
 
 ---
 
