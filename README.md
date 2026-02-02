@@ -1,3 +1,5 @@
+![Project Banner](Downloads\banner.png)
+
 # 🌍 AI Impact on Global Job Market (2010–2025)
 
 🚀 **Data Analysis & Visualization Project**  
