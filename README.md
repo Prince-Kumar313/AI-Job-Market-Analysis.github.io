@@ -48,7 +48,7 @@ The goal is to understand:
 ### 📈 AI Mentions Growth Over Time
 AI job postings increased significantly after 2018.
 
-![AI Trend](ai_trend.png)
+![AI Trend](screenshots/ai_trend.png)
 
 ---
 
