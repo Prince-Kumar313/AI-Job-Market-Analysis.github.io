@@ -1,4 +1,4 @@
-![Project Banner](Downloads.png)
+![Project Banner](banner.png)
 
 # 🌍 AI Impact on Global Job Market (2010–2025)
 
